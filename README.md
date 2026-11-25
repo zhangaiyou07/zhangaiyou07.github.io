@@ -1,5 +1,7 @@
-Portfolio site template
+# zhangaiyou07.github.io
 
-Generated with Claude Code
+Personal portfolio of Zijia Zhang (Data & AI Engineering, McGill MMA).
 
-HIHI
+Live site: https://zhangaiyou07.github.io
+
+A single static `index.html` served by GitHub Pages, with no build step and no dependencies.
